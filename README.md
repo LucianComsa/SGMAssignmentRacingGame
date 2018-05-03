@@ -9,3 +9,5 @@ The assets we used:
 -We used the character and animations from the Animation class, but we have implemented the controlling script and state machine.
 
 The scripts (Except for "Suspension") and the map building are our implementations.
+
+The gameplay is available on youtube to watch: https://youtu.be/m6dvqvLAS-4 Enjoy :)
